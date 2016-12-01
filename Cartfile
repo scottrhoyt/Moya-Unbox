@@ -1,2 +1,2 @@
 github "johnsundell/unbox" ~> 2.0
-github "Moya/Moya" ~> 8.0
+github "scottrhoyt/Moya" "plugin_modify"
